@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">2025 provisional pertussis incidence and case burden by reporting jurisdiction</title>
+  <desc id="desc">Two horizontal bar charts show the ten jurisdictions with the highest incidence per 100,000 and the ten with the largest case counts.</desc>
+  <rect width="1200" height="760" fill="#f8fafc"/>
+  <text x="60" y="62" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#102a43">Pertussis surveillance priorities, 2025</text>
+  <text x="60" y="96" font-family="Arial, sans-serif" font-size="18" fill="#486581">High incidence and high workload do not always point to the same jurisdictions</text>
+  <rect x="55" y="125" width="525" height="535" rx="16" fill="#ffffff" stroke="#d9e2ec"/>
+  <rect x="620" y="125" width="525" height="535" rx="16" fill="#ffffff" stroke="#d9e2ec"/>
+  <text x="85" y="170" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#102a43">Highest incidence per 100,000</text>
+  <text x="650" y="170" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#102a43">Largest provisional case counts</text>
+  <g font-family="Arial, sans-serif" font-size="15" fill="#243b53">
+    <text x="85" y="215">Oregon</text><rect x="190" y="198" width="300" height="20" rx="4" fill="#0f766e"/><text x="500" y="215">36.51</text>
+    <text x="85" y="258">Idaho</text><rect x="190" y="241" width="271" height="20" rx="4" fill="#0f766e"/><text x="471" y="258">32.97</text>
+    <text x="85" y="301">Montana</text><rect x="190" y="284" width="250" height="20" rx="4" fill="#0f766e"/><text x="450" y="301">30.42</text>
+    <text x="85" y="344">Washington</text><rect x="190" y="327" width="220" height="20" rx="4" fill="#0f766e"/><text x="420" y="344">26.73</text>
+    <text x="85" y="387">Minnesota</text><rect x="190" y="370" width="167" height="20" rx="4" fill="#0f766e"/><text x="367" y="387">20.35</text>
+    <text x="85" y="430">Colorado</text><rect x="190" y="413" width="157" height="20" rx="4" fill="#2c7a7b"/><text x="357" y="430">19.15</text>
+    <text x="85" y="473">South Dakota</text><rect x="190" y="456" width="156" height="20" rx="4" fill="#2c7a7b"/><text x="356" y="473">18.93</text>
+    <text x="85" y="516">Alaska</text><rect x="190" y="499" width="155" height="20" rx="4" fill="#2c7a7b"/><text x="355" y="516">18.92</text>
+    <text x="85" y="559">Alabama</text><rect x="190" y="542" width="155" height="20" rx="4" fill="#2c7a7b"/><text x="355" y="559">18.83</text>
+    <text x="85" y="602">Nebraska</text><rect x="190" y="585" width="150" height="20" rx="4" fill="#2c7a7b"/><text x="350" y="602">18.25</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="15" fill="#243b53">
+    <text x="650" y="215">Washington</text><rect x="755" y="198" width="300" height="20" rx="4" fill="#1d4ed8"/><text x="1065" y="215">2,127</text>
+    <text x="650" y="258">Texas</text><rect x="755" y="241" width="255" height="20" rx="4" fill="#1d4ed8"/><text x="1020" y="258">1,805</text>
+    <text x="650" y="301">California</text><rect x="755" y="284" width="240" height="20" rx="4" fill="#1d4ed8"/><text x="1005" y="301">1,703</text>
+    <text x="650" y="344">Oregon</text><rect x="755" y="327" width="220" height="20" rx="4" fill="#1d4ed8"/><text x="985" y="344">1,560</text>
+    <text x="650" y="387">Florida</text><rect x="755" y="370" width="215" height="20" rx="4" fill="#1d4ed8"/><text x="980" y="387">1,521</text>
+    <text x="650" y="430">Ohio</text><rect x="755" y="413" width="188" height="20" rx="4" fill="#2563eb"/><text x="953" y="430">1,334</text>
+    <text x="650" y="473">Minnesota</text><rect x="755" y="456" width="166" height="20" rx="4" fill="#2563eb"/><text x="931" y="473">1,179</text>
+    <text x="650" y="516">Colorado</text><rect x="755" y="499" width="161" height="20" rx="4" fill="#2563eb"/><text x="926" y="516">1,141</text>
+    <text x="650" y="559">Michigan</text><rect x="755" y="542" width="143" height="20" rx="4" fill="#2563eb"/><text x="908" y="559">1,012</text>
+    <text x="650" y="602">Arizona</text><rect x="755" y="585" width="138" height="20" rx="4" fill="#2563eb"/><text x="903" y="602">981</text>
+  </g>
+  <line x1="60" y1="690" x2="1140" y2="690" stroke="#bcccdc"/>
+  <text x="60" y="720" font-family="Arial, sans-serif" font-size="15" fill="#486581">CDC 2025 Provisional Pertussis Surveillance Report • 52 reporting jurisdictions • U.S. total: 28,783 cases; 8.46 per 100,000</text>
+  <text x="60" y="746" font-family="Arial, sans-serif" font-size="13" fill="#627d98">Provisional data are subject to revision. Counts and incidence support different planning decisions.</text>
+</svg>

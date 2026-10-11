@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Pertussis Surveillance Priorities: Rate, Burden, and Geography in 2025"
+message: "Please cite this repository and the CDC source report."
+type: software
+authors:
+  - family-names: Gor
+    given-names: Kira
+    suffix: BDS, MPH
+version: 1.0.0
+date-released: 2026-10-09
+url: "https://github.com/gorkira28/pertussis-2025-surveillance-priorities"
+license: MIT
+keywords:
+  - pertussis
+  - epidemiology
+  - surveillance
+  - DuckDB
+  - QGIS

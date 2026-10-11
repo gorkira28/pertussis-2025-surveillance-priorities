@@ -1,0 +1,11 @@
+rank,jurisdiction,cases,incidence_per_100k,share_of_us_cases_pct
+1,Washington,2127,26.73,7.39
+2,Texas,1805,5.77,6.27
+3,California,1703,4.32,5.92
+4,Oregon,1560,36.51,5.42
+5,Florida,1521,6.51,5.28
+6,Ohio,1334,11.23,4.63
+7,Minnesota,1179,20.35,4.10
+8,Colorado,1141,19.15,3.96
+9,Michigan,1012,9.98,3.52
+10,Arizona,981,12.94,3.41

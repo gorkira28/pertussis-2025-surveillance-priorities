@@ -1,0 +1,7 @@
+check,observed,expected,status
+Jurisdiction rows,52,52,PASS
+Sum of jurisdiction cases,28783,28783,PASS
+CDC national incidence per 100000,8.46,8.46,PASS
+Negative case counts,0,0,PASS
+Duplicate jurisdiction names,0,0,PASS
+Jurisdictions at or above 20 per 100000,5,5,PASS

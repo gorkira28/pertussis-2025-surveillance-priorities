@@ -1,0 +1,52 @@
+state_name,incidence_per_100k,cases,coverage_note
+Alabama,18.83,971,State jurisdiction
+Alaska,18.92,140,State jurisdiction
+Arizona,12.94,981,State jurisdiction
+Arkansas,14.25,440,State jurisdiction
+California,4.32,1703,State jurisdiction
+Colorado,19.15,1141,State jurisdiction
+Connecticut,2.39,88,State jurisdiction
+Delaware,0.76,8,State jurisdiction
+District of Columbia,1.71,12,District jurisdiction
+Florida,6.51,1521,State jurisdiction
+Georgia,4.74,530,State jurisdiction
+Hawaii,17.29,250,State jurisdiction
+Idaho,32.97,660,State jurisdiction
+Illinois,6.55,832,State jurisdiction
+Indiana,6.53,452,State jurisdiction
+Iowa,11.11,360,State jurisdiction
+Kansas,8.28,246,State jurisdiction
+Kentucky,15.23,699,State jurisdiction
+Louisiana,9.16,421,State jurisdiction
+Maine,10.32,145,State jurisdiction
+Maryland,2.12,133,State jurisdiction
+Massachusetts,2.90,207,State jurisdiction
+Michigan,9.98,1012,State jurisdiction
+Minnesota,20.35,1179,State jurisdiction
+Mississippi,4.89,144,State jurisdiction
+Missouri,1.57,98,State jurisdiction
+Montana,30.42,346,State jurisdiction
+Nebraska,18.25,366,State jurisdiction
+Nevada,3.86,126,State jurisdiction
+New Hampshire,8.30,117,State jurisdiction
+New Jersey,3.43,326,State jurisdiction
+New Mexico,6.01,128,State jurisdiction
+New York,5.41,616,New York State reporting jurisdiction excludes separately reported New York City
+North Carolina,7.66,846,State jurisdiction
+North Dakota,13.31,106,State jurisdiction
+Ohio,11.23,1334,State jurisdiction
+Oklahoma,10.94,448,State jurisdiction
+Oregon,36.51,1560,State jurisdiction
+Pennsylvania,5.13,671,State jurisdiction
+Rhode Island,0.18,2,State jurisdiction
+South Carolina,4.71,258,State jurisdiction
+South Dakota,18.93,175,State jurisdiction
+Tennessee,8.73,631,State jurisdiction
+Texas,5.77,1805,State jurisdiction
+Utah,9.82,344,State jurisdiction
+Vermont,14.34,93,State jurisdiction
+Virginia,6.95,612,State jurisdiction
+Washington,26.73,2127,State jurisdiction
+West Virginia,9.66,171,State jurisdiction
+Wisconsin,11.76,701,State jurisdiction
+Wyoming,0.00,0,State jurisdiction

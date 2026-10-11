@@ -1,0 +1,5 @@
+name: pertussis-surveillance-sql
+channels:
+  - conda-forge
+dependencies:
+  - duckdb=1.4.*
