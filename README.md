@@ -84,7 +84,7 @@ Incidence identifies unusually intense reported disease occurrence relative to p
 
 **Kira Gor, BDS, MPH**  
 Epidemiology and healthcare data analytics  
-[LinkedIn](https://www.linkedin.com/in/dr-kira-gor/) · [GitHub](https://github.com/gorkira28)
+[Portfolio](https://gorkira28.github.io/) · [LinkedIn](https://www.linkedin.com/in/dr-kira-gor/) · [GitHub](https://github.com/gorkira28)
 
 ## License
 
